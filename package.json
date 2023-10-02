@@ -1,0 +1,10 @@
+{
+  "name": "Static-Site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.88.2"
+  }
+}
